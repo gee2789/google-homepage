@@ -1,0 +1,45 @@
+.top {
+	float: right;
+	padding-right: 10px;
+
+}
+
+.mid{
+	position: absolute;
+	top: 20%;
+	left: 40%;
+}
+
+form {
+	position: absolute;
+	top: 32%;
+	left: 33%;
+}
+
+input {
+	width: 375px;
+	height: 25px;
+}
+
+.bottom {
+	float: left;
+	padding-top: 10px;
+	padding-left: 45px;
+	text-align: center;
+	
+  background: #F8F8FF;
+  background-image: -webkit-linear-gradient(top, #F8F8FF, #f2f2fa);
+  background-image: -moz-linear-gradient(top, #F8F8FF, #f2f2fa);
+  background-image: -ms-linear-gradient(top, #F8F8FF, #f2f2fa);
+  background-image: -o-linear-gradient(top, #F8F8FF, #f2f2fa);
+  background-image: linear-gradient(to bottom, #F8F8FF, #f2f2fa);
+  -webkit-border-radius: 4;
+  -moz-border-radius: 4;
+  border-radius: 4px;
+  font-family: Arial;
+  color: #0a0a14;
+  font-size: 13px;
+  padding: 7px 13px 5px 12px;
+  border: solid #ededed 2px;
+  text-decoration: none;
+}
